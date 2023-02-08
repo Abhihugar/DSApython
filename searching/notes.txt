@@ -1,0 +1,20 @@
+Searching Algorithm
+--------------------
+    Searching algorithm are designed to check for an element or
+    retrieve and element from any data structure where it is sorted.
+
+
+Based on the type of search operation. these algorithms are generally
+classified into two categories:
+    1)Sequential Search:
+            In this the list or array is traversed sequentially and every
+            element is checked.
+
+            10-->20---->30---->40---->--->50----60>  50 to be searched
+
+    2) Interval Search:
+            These algorithms are specifically designed for searching in
+            sorted data-structures.these type of searching algorithms are
+            much more efficient than linear search as they repeatedly target
+            the center of the search structure and divide the search space in
+            half.
