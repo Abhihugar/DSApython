@@ -43,3 +43,17 @@
 #     1, 5, 4, 2, 8 ---> 1, 4, 5, 2, 8
 #     1, 4, 5, 2, 8 ---> 1, 4, 2, 5, 8
 #     1, 4, 2, 5, 8 ---> 1
+
+
+# ------------------------------------------------------------------------
+
+# Insertion sort
+#      similar to way we sort playing cards in our hands. The array is
+#      virtually split into a sorted and an unsorted part.value from the
+#      unsorted part are picked and placed at the correct position in the
+#      sorted array
+
+
+# 12, 11,  13,  5, 6
+
+# filling the sorted sub array from the unsorted parent array
